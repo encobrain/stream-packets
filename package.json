@@ -1,0 +1,22 @@
+{
+  "name": "stream-packets",
+  "version": "0.0.1",
+  "author": {
+    "name": "encobrain",
+    "email": "encobrain@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "packets",
+    "stream",
+    "converter",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/encobrain/stream-packets.git"
+  },
+  "bugs": "https://github.com/encobrain/stream-packets/issues",
+  "dependencies": {
+
+  }
+}
