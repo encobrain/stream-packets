@@ -9,14 +9,18 @@
   "keywords": [
     "packets",
     "stream",
-    "converter",
+    "converter"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/encobrain/stream-packets.git"
   },
   "bugs": "https://github.com/encobrain/stream-packets/issues",
-  "dependencies": {
-
+  "scripts": {
+    "test": "nodeunit tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodeunit": "^0.10.2"
   }
 }
